@@ -1,0 +1,8 @@
+I   am peter parker. I am a professional freelance photographer. <----> (dev_fe@email.com)
+<----------------------------------------------------------------->
+I am   peter parker. I am a professional freelance photographer. <----> (example@email.com)
+<----------------------------------------------------------------->
+I am peter   parker. I am a professional freelance photographer. <----> (assestant@school.h)
+<----------------------------------------------------------------->
+I am peter parker.   I am a professional freelance photographer. <----> (cooordinator@fe.co)
+<----------------------------------------------------------------->
